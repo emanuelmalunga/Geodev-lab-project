@@ -2,7 +2,7 @@
 
 ## Health Facilities (Hospitals)
 - Source: OpenStreetMap, via QuickOSM (Key: amenity, Value: hospital, Area: Lilongwe)
-- Feature count: 5
+- Feature count: 197
 - Geometry type: Point
 - Key columns: name, osm_id, amenity, phone, operator, operator_type, street, 
   city, postcode, opening_hours, website, healthcare
