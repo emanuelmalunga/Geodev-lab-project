@@ -13,4 +13,5 @@ Week 2 — Data notes: data-note.md What was downloaded from OpenStreetMap via Q
 Week 3 — Data preparation and quality checks: week3-note.md Reprojection to EPSG:32736, clipping to Lilongwe District, and the five quality checks (CRS, geometry validity, duplicates, attribute completeness, spatial extent), including a boundary CRS mismatch that was found and fixed. Analysis-ready files: hospitals_lilongwe_utm.gpkg, road_utm.gpkg
 Week 4 — Analysis: month-1-summary.md A 5 km buffer around each of the 197 health facilities, checked four ways (map, row count, one feature measured by hand, empty geometry). Map: buffer map.png
 
-Built over twelve months with GeoDev Lab Africa, Cohort One.
+## Month 2: development environment and early Python Week 5: set up Python, VS Code and the terminal. hello.py runs.
+
